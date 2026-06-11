@@ -1,0 +1,20 @@
+====================================
+= pieOS - Android for your PC.
+====================================
+
+PieOS aims to provide an Android boot experience with a modular system architecture.
+
+Current status:
+- Early development
+- GRUB currently used as a bootstrap layer
+- Kernel and initrd integration in progress
+
+Goals:
+- Fast startup
+- Minimal visible boot stages
+- Seamless transition from boot to the system environment
+
+==========================================================================================================
+WARNING!
+THE PROJECT IS STILL UNDER DEVELOPMENT AND HAS BEEN MARKED BY OUR TEAM AS NOT BOOTABLE. DO NOT USE IT.
+==========================================================================================================
